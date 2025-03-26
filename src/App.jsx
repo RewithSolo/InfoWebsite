@@ -20,6 +20,15 @@ function App() {
           >
             My GitHub
           </a>
+          <br></br>
+          <a
+            className="App-link"
+            href="https://t.me/delon1xx"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            My TG
+          </a>
         </p>
       </header>
     </div>
