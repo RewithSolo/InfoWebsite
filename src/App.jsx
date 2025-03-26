@@ -4,21 +4,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="shinobu.jpg" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          RewithSolo <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          I fell in love with react
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/RewithSolo"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            My GitHub
           </a>
         </p>
       </header>
